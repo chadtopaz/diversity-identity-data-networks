@@ -1,0 +1,356 @@
+"member","party","committee","id"
+"Roberts, Pat (KS)","majority","agriculture",72
+"McConnell, Mitch (KY)","majority","agriculture",58
+"Boozman, John (AR)","majority","agriculture",9
+"Hoeven, John (ND)","majority","agriculture",43
+"Ernst, Joni (IA)","majority","agriculture",31
+"Hyde-Smith, Cindy (MS)","majority","agriculture",44
+"Braun, Mike (IN)","majority","agriculture",10
+"Grassley, Chuck (IA)","majority","agriculture",37
+"Thune, John (SD)","majority","agriculture",90
+"Fischer, Deb (NE)","majority","agriculture",33
+"Loeffler, Kelly (GA)","majority","agriculture",46
+"Stabenow, Debbie (MI)","minority","agriculture",87
+"Leahy, Patrick J. (VT)","minority","agriculture",54
+"Brown, Sherrod (OH)","minority","agriculture",11
+"Klobuchar, Amy (MN)","minority","agriculture",52
+"Bennet, Michael F. (CO)","minority","agriculture",4
+"Gillibrand, Kirsten E. (NY)","minority","agriculture",35
+"Casey, Robert P. (PA)","minority","agriculture",17
+"Smith, Tina (MN)","minority","agriculture",86
+"Durbin, Richard J. (IL)","minority","agriculture",29
+"Shelby, Richard C. (AL)","majority","appropriations",84
+"McConnell, Mitch (KY)","majority","appropriations",58
+"Alexander, Lamar (TN)","majority","appropriations",1
+"Collins, Susan M. (ME)","majority","appropriations",19
+"Murkowski, Lisa (AK)","majority","appropriations",63
+"Graham, Lindsey (SC)","majority","appropriations",36
+"Blunt, Roy (MO)","majority","appropriations",7
+"Moran, Jerry (KS)","majority","appropriations",62
+"Hoeven, John (ND)","majority","appropriations",43
+"Boozman, John (AR)","majority","appropriations",9
+"Capito, Shelley Moore (WV)","majority","appropriations",14
+"Kennedy, John (LA)","majority","appropriations",50
+"Hyde-Smith, Cindy (MS)","majority","appropriations",44
+"Daines, Steve (MT)","majority","appropriations",27
+"Rubio, Marco (FL)","majority","appropriations",76
+"Lankford, James (OK)","majority","appropriations",53
+"Leahy, Patrick J. (VT)","minority","appropriations",54
+"Murray, Patty (WA)","minority","appropriations",65
+"Feinstein, Dianne (CA)","minority","appropriations",32
+"Durbin, Richard J. (IL)","minority","appropriations",29
+"Reed, Jack (RI)","minority","appropriations",70
+"Tester, Jon (MT)","minority","appropriations",89
+"Udall, Tom (NM)","minority","appropriations",93
+"Shaheen, Jeanne (NH)","minority","appropriations",83
+"Merkley, Jeff (OR)","minority","appropriations",61
+"Coons, Christopher A. (DE)","minority","appropriations",20
+"Schatz, Brian (HI)","minority","appropriations",79
+"Baldwin, Tammy (WI)","minority","appropriations",2
+"Murphy, Christopher (CT)","minority","appropriations",64
+"Manchin, Joe (WV)","minority","appropriations",56
+"Van Hollen, Chris (MD)","minority","appropriations",94
+"Inhofe, James M. (OK)","majority","armedservices",45
+"Wicker, Roger F. (MS)","majority","armedservices",98
+"Fischer, Deb (NE)","majority","armedservices",33
+"Cotton, Tom (AR)","majority","armedservices",23
+"Rounds, Mike (SD)","majority","armedservices",75
+"Ernst, Joni (IA)","majority","armedservices",31
+"Tillis, Thom (NC)","majority","armedservices",91
+"Sullivan, Dan (AK)","majority","armedservices",88
+"Perdue, David (GA)","majority","armedservices",67
+"Cramer, Kevin (ND)","majority","armedservices",24
+"McSally, Martha (AZ)","majority","armedservices",59
+"Scott, Rick (FL)","majority","armedservices",81
+"Blackburn, Marsha (TN)","majority","armedservices",5
+"Hawley, Josh (MO)","majority","armedservices",40
+"Reed, Jack (RI)","minority","armedservices",70
+"Shaheen, Jeanne (NH)","minority","armedservices",83
+"Gillibrand, Kirsten E. (NY)","minority","armedservices",35
+"Blumenthal, Richard (CT)","minority","armedservices",6
+"Hirono, Mazie K. (HI)","minority","armedservices",42
+"Kaine, Tim (VA)","minority","armedservices",49
+"King, Angus S. (ME)","minority","armedservices",51
+"Heinrich, Martin (NM)","minority","armedservices",41
+"Warren, Elizabeth (MA)","minority","armedservices",96
+"Peters, Gary C. (MI)","minority","armedservices",68
+"Manchin, Joe (WV)","minority","armedservices",56
+"Duckworth, Tammy (IL)","minority","armedservices",28
+"Jones, Doug (AL)","minority","armedservices",48
+"Crapo, Mike (ID)","majority","banking",25
+"Shelby, Richard C. (AL)","majority","banking",84
+"Toomey, Patrick J. (PA)","majority","banking",92
+"Scott, Tim (SC)","majority","banking",82
+"Sasse, Ben (NE)","majority","banking",78
+"Cotton, Tom (AR)","majority","banking",23
+"Rounds, Mike (SD)","majority","banking",75
+"Perdue, David (GA)","majority","banking",67
+"Tillis, Thom (NC)","majority","banking",91
+"Kennedy, John (LA)","majority","banking",50
+"McSally, Martha (AZ)","majority","banking",59
+"Moran, Jerry (KS)","majority","banking",62
+"Cramer, Kevin (ND)","majority","banking",24
+"Brown, Sherrod (OH)","minority","banking",11
+"Reed, Jack (RI)","minority","banking",70
+"Menendez, Robert (NJ)","minority","banking",60
+"Tester, Jon (MT)","minority","banking",89
+"Warner, Mark R. (VA)","minority","banking",95
+"Warren, Elizabeth (MA)","minority","banking",96
+"Schatz, Brian (HI)","minority","banking",79
+"Van Hollen, Chris (MD)","minority","banking",94
+"Cortez Masto, Catherine (NV)","minority","banking",22
+"Jones, Doug (AL)","minority","banking",48
+"Smith, Tina (MN)","minority","banking",86
+"Sinema, Kyrsten (AZ)","minority","banking",85
+"Wicker, Roger F. (MS)","majority","commerce",98
+"Thune, John (SD)","majority","commerce",90
+"Blunt, Roy (MO)","majority","commerce",7
+"Cruz, Ted (TX)","majority","commerce",26
+"Fischer, Deb (NE)","majority","commerce",33
+"Moran, Jerry (KS)","majority","commerce",62
+"Sullivan, Dan (AK)","majority","commerce",88
+"Gardner, Cory (CO)","majority","commerce",34
+"Blackburn, Marsha (TN)","majority","commerce",5
+"Capito, Shelley Moore (WV)","majority","commerce",14
+"Lee, Mike (UT)","majority","commerce",55
+"Johnson, Ron (WI)","majority","commerce",47
+"Young, Todd (IN)","majority","commerce",100
+"Scott, Rick (FL)","majority","commerce",81
+"Cantwell, Maria (WA)","minority","commerce",13
+"Klobuchar, Amy (MN)","minority","commerce",52
+"Blumenthal, Richard (CT)","minority","commerce",6
+"Schatz, Brian (HI)","minority","commerce",79
+"Markey, Edward J. (MA)","minority","commerce",57
+"Udall, Tom (NM)","minority","commerce",93
+"Peters, Gary C. (MI)","minority","commerce",68
+"Baldwin, Tammy (WI)","minority","commerce",2
+"Duckworth, Tammy (IL)","minority","commerce",28
+"Tester, Jon (MT)","minority","commerce",89
+"Sinema, Kyrsten (AZ)","minority","commerce",85
+"Rosen, Jacky (NV)","minority","commerce",74
+"Murkowski, Lisa (AK)","majority","energy",63
+"Barrasso, John (WY)","majority","energy",3
+"Risch, James  E. (ID)","majority","energy",71
+"Lee, Mike (UT)","majority","energy",55
+"Daines, Steve (MT)","majority","energy",27
+"Cassidy, Bill (LA)","majority","energy",18
+"Gardner, Cory (CO)","majority","energy",34
+"Hyde-Smith, Cindy (MS)","majority","energy",44
+"McSally, Martha (AZ)","majority","energy",59
+"Alexander, Lamar (TN)","majority","energy",1
+"Hoeven, John (ND)","majority","energy",43
+"Manchin, Joe (WV)","minority","energy",56
+"Wyden, Ron (OR)","minority","energy",99
+"Cantwell, Maria (WA)","minority","energy",13
+"Sanders, Bernard (VT)","minority","energy",77
+"Stabenow, Debbie (MI)","minority","energy",87
+"Heinrich, Martin (NM)","minority","energy",41
+"Hirono, Mazie K. (HI)","minority","energy",42
+"King, Angus S. (ME)","minority","energy",51
+"Cortez Masto, Catherine (NV)","minority","energy",22
+"Barrasso, John (WY)","majority","environment",3
+"Inhofe, James M. (OK)","majority","environment",45
+"Capito, Shelley Moore (WV)","majority","environment",14
+"Cramer, Kevin (ND)","majority","environment",24
+"Braun, Mike (IN)","majority","environment",10
+"Rounds, Mike (SD)","majority","environment",75
+"Sullivan, Dan (AK)","majority","environment",88
+"Boozman, John (AR)","majority","environment",9
+"Wicker, Roger F. (MS)","majority","environment",98
+"Shelby, Richard C. (AL)","majority","environment",84
+"Ernst, Joni (IA)","majority","environment",31
+"Carper, Thomas R. (DE)","minority","environment",16
+"Cardin, Benjamin L. (MD)","minority","environment",15
+"Sanders, Bernard (VT)","minority","environment",77
+"Whitehouse, Sheldon (RI)","minority","environment",97
+"Merkley, Jeff (OR)","minority","environment",61
+"Gillibrand, Kirsten E. (NY)","minority","environment",35
+"Booker, Cory A. (NJ)","minority","environment",8
+"Markey, Edward J. (MA)","minority","environment",57
+"Duckworth, Tammy (IL)","minority","environment",28
+"Van Hollen, Chris (MD)","minority","environment",94
+"Grassley, Chuck (IA)","majority","finance",37
+"Crapo, Mike (ID)","majority","finance",25
+"Roberts, Pat (KS)","majority","finance",72
+"Enzi, Michael B. (WY)","majority","finance",30
+"Cornyn, John (TX)","majority","finance",21
+"Thune, John (SD)","majority","finance",90
+"Burr, Richard (NC)","majority","finance",12
+"Portman, Rob (OH)","majority","finance",69
+"Toomey, Patrick J. (PA)","majority","finance",92
+"Scott, Tim (SC)","majority","finance",82
+"Cassidy, Bill (LA)","majority","finance",18
+"Lankford, James (OK)","majority","finance",53
+"Daines, Steve (MT)","majority","finance",27
+"Young, Todd (IN)","majority","finance",100
+"Sasse, Ben (NE)","majority","finance",78
+"Wyden, Ron (OR)","minority","finance",99
+"Stabenow, Debbie (MI)","minority","finance",87
+"Cantwell, Maria (WA)","minority","finance",13
+"Menendez, Robert (NJ)","minority","finance",60
+"Carper, Thomas R. (DE)","minority","finance",16
+"Cardin, Benjamin L. (MD)","minority","finance",15
+"Brown, Sherrod (OH)","minority","finance",11
+"Bennet, Michael F. (CO)","minority","finance",4
+"Casey, Robert P. (PA)","minority","finance",17
+"Warner, Mark R. (VA)","minority","finance",95
+"Whitehouse, Sheldon (RI)","minority","finance",97
+"Hassan, Margaret Wood (NH)","minority","finance",39
+"Cortez Masto, Catherine (NV)","minority","finance",22
+"Risch, James  E. (ID)","majority","foreignrelations",71
+"Rubio, Marco (FL)","majority","foreignrelations",76
+"Johnson, Ron (WI)","majority","foreignrelations",47
+"Gardner, Cory (CO)","majority","foreignrelations",34
+"Romney, Mitt (UT)","majority","foreignrelations",73
+"Graham, Lindsey (SC)","majority","foreignrelations",36
+"Barrasso, John (WY)","majority","foreignrelations",3
+"Portman, Rob (OH)","majority","foreignrelations",69
+"Paul, Rand (KY)","majority","foreignrelations",66
+"Young, Todd (IN)","majority","foreignrelations",100
+"Cruz, Ted (TX)","majority","foreignrelations",26
+"Perdue, David (GA)","majority","foreignrelations",67
+"Menendez, Robert (NJ)","minority","foreignrelations",60
+"Cardin, Benjamin L. (MD)","minority","foreignrelations",15
+"Shaheen, Jeanne (NH)","minority","foreignrelations",83
+"Coons, Christopher A. (DE)","minority","foreignrelations",20
+"Udall, Tom (NM)","minority","foreignrelations",93
+"Murphy, Christopher (CT)","minority","foreignrelations",64
+"Kaine, Tim (VA)","minority","foreignrelations",49
+"Markey, Edward J. (MA)","minority","foreignrelations",57
+"Merkley, Jeff (OR)","minority","foreignrelations",61
+"Booker, Cory A. (NJ)","minority","foreignrelations",8
+"Alexander, Lamar (TN)","majority","health",1
+"Enzi, Michael B. (WY)","majority","health",30
+"Burr, Richard (NC)","majority","health",12
+"Paul, Rand (KY)","majority","health",66
+"Collins, Susan M. (ME)","majority","health",19
+"Cassidy, Bill (LA)","majority","health",18
+"Roberts, Pat (KS)","majority","health",72
+"Murkowski, Lisa (AK)","majority","health",63
+"Scott, Tim (SC)","majority","health",82
+"Romney, Mitt (UT)","majority","health",73
+"Braun, Mike (IN)","majority","health",10
+"Loeffler, Kelly (GA)","majority","health",46
+"Murray, Patty (WA)","minority","health",65
+"Sanders, Bernard (VT)","minority","health",77
+"Casey, Robert P. (PA)","minority","health",17
+"Baldwin, Tammy (WI)","minority","health",2
+"Murphy, Christopher (CT)","minority","health",64
+"Warren, Elizabeth (MA)","minority","health",96
+"Kaine, Tim (VA)","minority","health",49
+"Hassan, Margaret Wood (NH)","minority","health",39
+"Smith, Tina (MN)","minority","health",86
+"Jones, Doug (AL)","minority","health",48
+"Rosen, Jacky (NV)","minority","health",74
+"Johnson, Ron (WI)","majority","homelandsecurity",47
+"Portman, Rob (OH)","majority","homelandsecurity",69
+"Paul, Rand (KY)","majority","homelandsecurity",66
+"Lankford, James (OK)","majority","homelandsecurity",53
+"Romney, Mitt (UT)","majority","homelandsecurity",73
+"Scott, Rick (FL)","majority","homelandsecurity",81
+"Enzi, Michael B. (WY)","majority","homelandsecurity",30
+"Hawley, Josh (MO)","majority","homelandsecurity",40
+"Peters, Gary C. (MI)","minority","homelandsecurity",68
+"Carper, Thomas R. (DE)","minority","homelandsecurity",16
+"Hassan, Margaret Wood (NH)","minority","homelandsecurity",39
+"Harris, Kamala D. (CA)","minority","homelandsecurity",38
+"Sinema, Kyrsten (AZ)","minority","homelandsecurity",85
+"Rosen, Jacky (NV)","minority","homelandsecurity",74
+"Blunt, Roy (MO)","majority","rules",7
+"McConnell, Mitch (KY)","majority","rules",58
+"Alexander, Lamar (TN)","majority","rules",1
+"Roberts, Pat (KS)","majority","rules",72
+"Shelby, Richard C. (AL)","majority","rules",84
+"Cruz, Ted (TX)","majority","rules",26
+"Capito, Shelley Moore (WV)","majority","rules",14
+"Wicker, Roger F. (MS)","majority","rules",98
+"Fischer, Deb (NE)","majority","rules",33
+"Hyde-Smith, Cindy (MS)","majority","rules",44
+"Klobuchar, Amy (MN)","minority","rules",52
+"Feinstein, Dianne (CA)","minority","rules",32
+"Schumer, Charles E. (NY)","minority","rules",80
+"Durbin, Richard J. (IL)","minority","rules",29
+"Udall, Tom (NM)","minority","rules",93
+"Warner, Mark R. (VA)","minority","rules",95
+"Leahy, Patrick J. (VT)","minority","rules",54
+"King, Angus S. (ME)","minority","rules",51
+"Cortez Masto, Catherine (NV)","minority","rules",22
+"Rubio, Marco (FL)","majority","smallbusiness",76
+"Risch, James  E. (ID)","majority","smallbusiness",71
+"Paul, Rand (KY)","majority","smallbusiness",66
+"Scott, Tim (SC)","majority","smallbusiness",82
+"Ernst, Joni (IA)","majority","smallbusiness",31
+"Inhofe, James M. (OK)","majority","smallbusiness",45
+"Young, Todd (IN)","majority","smallbusiness",100
+"Kennedy, John (LA)","majority","smallbusiness",50
+"Romney, Mitt (UT)","majority","smallbusiness",73
+"Hawley, Josh (MO)","majority","smallbusiness",40
+"Cardin, Benjamin L. (MD)","minority","smallbusiness",15
+"Cantwell, Maria (WA)","minority","smallbusiness",13
+"Shaheen, Jeanne (NH)","minority","smallbusiness",83
+"Markey, Edward J. (MA)","minority","smallbusiness",57
+"Booker, Cory A. (NJ)","minority","smallbusiness",8
+"Coons, Christopher A. (DE)","minority","smallbusiness",20
+"Hirono, Mazie K. (HI)","minority","smallbusiness",42
+"Duckworth, Tammy (IL)","minority","smallbusiness",28
+"Rosen, Jacky (NV)","minority","smallbusiness",74
+"Enzi, Michael B. (WY)","majority","budget",30
+"Grassley, Chuck (IA)","majority","budget",37
+"Crapo, Mike (ID)","majority","budget",25
+"Graham, Lindsey (SC)","majority","budget",36
+"Toomey, Patrick J. (PA)","majority","budget",92
+"Johnson, Ron (WI)","majority","budget",47
+"Perdue, David (GA)","majority","budget",67
+"Braun, Mike (IN)","majority","budget",10
+"Scott, Rick (FL)","majority","budget",81
+"Kennedy, John (LA)","majority","budget",50
+"Cramer, Kevin (ND)","majority","budget",24
+"Sanders, Bernard (VT)","minority","budget",77
+"Murray, Patty (WA)","minority","budget",65
+"Wyden, Ron (OR)","minority","budget",99
+"Stabenow, Debbie (MI)","minority","budget",87
+"Whitehouse, Sheldon (RI)","minority","budget",97
+"Warner, Mark R. (VA)","minority","budget",95
+"Merkley, Jeff (OR)","minority","budget",61
+"Kaine, Tim (VA)","minority","budget",49
+"Van Hollen, Chris (MD)","minority","budget",94
+"Harris, Kamala D. (CA)","minority","budget",38
+"Graham, Lindsey (SC)","majority","judiciary",36
+"Grassley, Chuck (IA)","majority","judiciary",37
+"Cornyn, John (TX)","majority","judiciary",21
+"Lee, Mike (UT)","majority","judiciary",55
+"Cruz, Ted (TX)","majority","judiciary",26
+"Sasse, Ben (NE)","majority","judiciary",78
+"Hawley, Josh (MO)","majority","judiciary",40
+"Tillis, Thom (NC)","majority","judiciary",91
+"Ernst, Joni (IA)","majority","judiciary",31
+"Crapo, Mike (ID)","majority","judiciary",25
+"Kennedy, John (LA)","majority","judiciary",50
+"Blackburn, Marsha (TN)","majority","judiciary",5
+"Feinstein, Dianne (CA)","minority","judiciary",32
+"Leahy, Patrick J. (VT)","minority","judiciary",54
+"Durbin, Richard J. (IL)","minority","judiciary",29
+"Whitehouse, Sheldon (RI)","minority","judiciary",97
+"Klobuchar, Amy (MN)","minority","judiciary",52
+"Coons, Christopher A. (DE)","minority","judiciary",20
+"Blumenthal, Richard (CT)","minority","judiciary",6
+"Hirono, Mazie K. (HI)","minority","judiciary",42
+"Booker, Cory A. (NJ)","minority","judiciary",8
+"Harris, Kamala D. (CA)","minority","judiciary",38
+"Moran, Jerry (KS)","majority","veteransaffairs",62
+"Boozman, John (AR)","majority","veteransaffairs",9
+"Cassidy, Bill (LA)","majority","veteransaffairs",18
+"Rounds, Mike (SD)","majority","veteransaffairs",75
+"Tillis, Thom (NC)","majority","veteransaffairs",91
+"Sullivan, Dan (AK)","majority","veteransaffairs",88
+"Blackburn, Marsha (TN)","majority","veteransaffairs",5
+"Cramer, Kevin (ND)","majority","veteransaffairs",24
+"Loeffler, Kelly (GA)","majority","veteransaffairs",46
+"Tester, Jon (MT)","minority","veteransaffairs",89
+"Murray, Patty (WA)","minority","veteransaffairs",65
+"Sanders, Bernard (VT)","minority","veteransaffairs",77
+"Brown, Sherrod (OH)","minority","veteransaffairs",11
+"Blumenthal, Richard (CT)","minority","veteransaffairs",6
+"Hirono, Mazie K. (HI)","minority","veteransaffairs",42
+"Manchin, Joe (WV)","minority","veteransaffairs",56
+"Sinema, Kyrsten (AZ)","minority","veteransaffairs",85
